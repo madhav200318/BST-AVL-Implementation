@@ -85,13 +85,13 @@ A graph comparing the heights of BST and AVL Tree for sequential datasets.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/madhav1807/BST-AVL-Implementation.git
 ```
 
 ### Step 2: Navigate to the Project Folder
 
 ```bash
-cd your-repository-name
+cd BST-AVL-Implementation
 ```
 
 ### Step 3: Install Required Library
